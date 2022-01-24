@@ -11,6 +11,6 @@ Here are some ideas to get me started:
 - 🤔 I’m looking for help with stackoverflow
 - 💬 Ask me about me
 - 📫 How to reach me: star all my repositories
-- 😄 Pronouns: Bright
-- ⚡ Fun fact: I like github and readme
+- 😄 Pronouns: null
+- ⚡ Fun fact: I like github and readmes
 
