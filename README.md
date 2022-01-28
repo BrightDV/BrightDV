@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I am available to translate open-source apps to french (from english only).
-**If you want a translation, open an issue in my repo and I will answer ASAP.**
+**If you want a translation, [open an issue in this repo and I will answer ASAP](https://github.com/BrightDV/Contact).**
 
 **Don't worry, it's free ;)**
 
@@ -16,4 +16,4 @@ Here are some ideas to get me started:
 - 😄 Pronouns: maybe ?? null
 - ⚡ Fun fact: I like readmes
 
-And voilà ;)
+Et voila ;)
