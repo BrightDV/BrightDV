@@ -1,7 +1,10 @@
-### Hi there (me?) 👋
+### Hi there 👋
 
+### I am available to translate open-source apps to french (from english only).
+**If you want a translation, open an issue in my repo and I will answer ASAP.**
 
-**BrightDV/BrightDV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+**Don't worry, it's free ;)**
+
 
 Here are some ideas to get me started:
 
@@ -9,9 +12,8 @@ Here are some ideas to get me started:
 - 🌱 I’m currently learning.exe
 - 👯 I’m looking to collaborate on open-source
 - 🤔 I’m looking for help with stackoverflow
-- 💬 Ask me about me
 - 📫 How to reach me: star all my repositories
 - 😄 Pronouns: maybe ?? null
 - ⚡ Fun fact: I like readmes
 
-Et voilà ;)
+And voilà ;)
