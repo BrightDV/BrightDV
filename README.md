@@ -1,18 +1,12 @@
 ### Hi there 👋
 
-### I am available to translate open-source apps to french (from english only).
-**If you want a translation, [open an issue in this repo and I will answer ASAP](https://github.com/BrightDV/Contact).**
-
-**Don't worry, it's free ;)**
-
-
 Here are some ideas to get me started:
 
 - 🔭 I’m currently working on some translations
 - 🌱 I’m currently learning.exe
 - 👯 I’m looking to collaborate on open-source
 - 🤔 I’m looking for help with stackoverflow
-- 📫 How to reach me: star all my repositories
+- 📫 How to reach me: star all my repositories, watch them & fork them. Then, buy Google and spam my mail with a link to your Twitter account which redirects to your GitHub account. You will have 1 over a lot of chances to get an answer 👍
 - 😄 Pronouns: maybe ?? null
 - ⚡ Fun fact: I like readmes
 
