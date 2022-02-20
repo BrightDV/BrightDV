@@ -1,13 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm BrightDV</h1>
+<h3 align="center">A random developer</h3>
 
-Here are some ideas to get me started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brightdv&label=Profile%20views&color=0e75b6&style=flat" alt="brightdv" /> </p>
 
-- 🔭 I’m currently working on some translations
-- 🌱 I’m currently learning.exe
-- 👯 I’m looking to collaborate on open-source
-- 🤔 I’m looking for help with stackoverflow
-- 📫 How to reach me: star all my repositories, watch them & fork them. Then, buy Google and spam my mail with a link to your Twitter account which redirects to your GitHub account. You will have 1 over a lot of chances to get an answer 👍
-- 😄 Pronouns: maybe ?? null
-- ⚡ Fun fact: I like readmes
+- 🌱 I’m currently learning **Flutter**
 
-Et voila ;)
+- 👯 I’m looking to collaborate on **open-source**
+
+- 🤝 I’m looking for help with [StackOverflow](https://stackoverflow.com)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/brightdv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="brightdv" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brightdv&show_icons=true&locale=en" alt="brightdv" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brightdv&" alt="brightdv" /></p>
