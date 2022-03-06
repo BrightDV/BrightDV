@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BrightDV</h1>
-<h3 align="center">A random developer</h3>
+<h3 align="center">Nice to see you</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brightdv&label=Profile%20views&color=0e75b6&style=flat" alt="brightdv" /> </p>
 
