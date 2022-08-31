@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BrightDV</h1>
 <h3 align="center">Nice to see you</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brightdv&label=Profile%20views&color=0e75b6&style=flat" alt="brightdv" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=brightdv&label=Profile%20views&color=0e75b6&style=flat" alt="brightdv" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
